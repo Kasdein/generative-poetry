@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    height: 50vh;
+    background-color: rgb(203, 240, 243);
+}
+
+h1 {
+    font-size: 3rem;
+    font-family: monospace;
+    margin-bottom: 30px;
+}
+
+p { 
+    font-size: 1rem;
+    font-family: monospace;
+    text-align: center;
+}
+
+#container {
+    margin: 10px;
+}
+
+
